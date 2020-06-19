@@ -1,6 +1,6 @@
 # blog
 
-> Osvaldo Abel Blog
+> simple Blog built with nuxt.js
 
 ## Build Setup
 
